@@ -1,0 +1,15 @@
+Value,Count,Class_Name,Red,Green,Blue,Opacity
+0,1604594.0,,0,0,0,255
+1,77223.0,1. Irrigated-DC-rice-rice,0,255,0,255
+2,209043.0,2. Irrigated-DC-rice-pulses,160,82,45,255
+3,83203.0,3. Irrigated-DC-pulses/maize-mai,0,255,255,255
+4,4216.0,4. Irrigated-sugarcane,0,100,0,255
+5,511076.0,5. Rainfed-DC-cotton-rice,255,255,0,255
+6,52925.0,6. Rainfed-DC-sorghum-chickpea/f,238,130,238,255
+7,125627.0,7. Rainfed-SC-rice-fallow,255,192,203,255
+8,78126.0,8. Rainfed-SC-pigeonpea/groundnu,160,32,240,255
+9,11579.0,9. Rainfed-SC-cotton/groundnut,255,255,224,255
+10,46416.0,10. Rainfed-SC-pulses,165,42,42,255
+11,28260.0,11. Rainfed-groundnut,210,180,140,255
+12,510395.0,12. Mixed crops,255,192,203,255
+13,424797.0,13. Other LLULC,192,192,192,255
